@@ -1,0 +1,17 @@
+Restaurant Booking System - Razor Pages Web App
+
+Objective: Create a web application for managing restaurant bookings.
+
+Several restaurants (capacity, location), tables (seat amount), clients (name, email, phone), bookings (number of guests)...
+
+Requirements:
+
+Implement CRUD operations for restaurants and reservations.
+Allow customers to book a table for a specified date and time.
+Include logic to check the availability of tables based on capacity.
+Provide functionality for customers to view their bookings.
+Search functionality - name & availability & capacity
+
+Generally speaking - these are only broad guidelines. Please write a solution that you would like to present to the world as your best effort in programming and app-designing (UX is the key).
+
+Use nullable references, and turn all the warnings into errors!
