@@ -6,5 +6,7 @@
         <Nullable>enable</Nullable>
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     </PropertyGroup>
-
+    <ItemGroup>
+        <ProjectReference Include="..\DAL\DAL.csproj"/>
+    </ItemGroup>
 </Project>
